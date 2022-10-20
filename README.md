@@ -1,5 +1,4 @@
-Welcome to my GitHub! I'm Mangesh Diyewar, a Mechanical engineering graduate who's transitioning into Data Science. Through self-study and enrolling in a Full stack data science Bootcamp at iNeuron.ai , I am building a solid foundation in both python and data science technology. You can find me on linkdein <a href = "https://www.linkedin.com/in/mangesh-diyewar-76b530159/">j_brgnz</a> where I'm currently enjoying  <a href="">#100DaysOfCode</a> and <a href="https://edabit.com/challenges">Edabit</a> challenges.
-
+Welcome to my GitHub! I'm Mangesh Diyewar, a Mechanical engineering graduate who's transitioning into Data Science. Through self-study and enrolling in a Full stack data science Bootcamp at iNeuron.ai , I am building a solid foundation in both python and data science technology. You can find me on linkdein <a href = "https://www.linkedin.com/in/mangesh-diyewar-76b530159/">Here
 ### ⚡ Relevant achievements
 - Awarded 1st place on Code First Girl's Web Dev course
 - Awarded in Top 3 as Most Innovative project in #HackfromHome 2020 
