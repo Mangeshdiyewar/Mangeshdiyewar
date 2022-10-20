@@ -22,4 +22,4 @@ Welcome to my GitHub! I'm Mangesh Diyewar, a Mechanical engineering graduate who
 - LinkedIn: <a href = "https://www.linkedin.com/in/mangesh-diyewar-76b530159/">Mangesh Diyewar</a>
 
 
-From Juel07 (https://github.com/Juel07)
+From Mangeshdiyewar (https://github.com/Mangeshdiyewar)
