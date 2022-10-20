@@ -1,12 +1,36 @@
-- 👋 Hi, I’m @Mangeshdiyewar
-- 👀 I’m interested in learning data science
-- 🌱 I’m currently DEEP LEARNING                                   
-- 💞️ I’m looking FOR VARIOUS JOB ROLES IN MACHINE LEARNING DOMAIN
-- 📫 How to reach me mangeshmjd@gmail.
-- com
+<img src= "https://github.com/Juel07/Juel07/blob/master/github-banner-BW.png"></img>
+<br>
+<br>
+Welcome to my GitHub! I'm Juel, a Biology graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp at Manchester Codes, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/j_brgnz">j_brgnz</a> where I'm currently enjoying  <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a> and <a href="https://edabit.com/challenges">Edabit</a> challenges.
 
-<!---
-Mangeshdiyewar/Mangeshdiyewar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- Data science enthusiast, eager to learn and start a career in the data science and machine learning domain. I am a highly motivated, curious, and detail-oriented analytic individual. I have experience in performing data analysis to get critical insights, data visualization, data preprocessing, report generation and I also have in-depth knowledge of building machine learning models and their deployment at various cloud platform. This makes me a perfect blend for a data science job. am waiting for the right opportunity to prove my skills and grow with the organization.
+### ⚡ Relevant achievements
+- Awarded 1st place on Code First Girl's Web Dev course
+- Awarded in Top 3 as Most Innovative project in #HackfromHome 2020 
+- Awarded full scholarship by Manchester Codes for demonstrating passion for tech
+
+### ✔️ I'm currently learning
+- JavaScript
+- ReactJS
+
+### 👩‍💻 I'm working on
+- Building projects and my portfolio website. 
+Although, I think I'll wait to learn React before I build the website.
+
+### 💡 Goals for 2020
+- Complete #100DaysOfCode challenge
+- Build 30+ projects 
+- Become skilled in JavaScript
+- Complete coding bootcamp by October 2020
+
+### 🌴 Fun facts
+- I blog. About food. Recipes and stuff. 
+- I will speak German fluently in 5 months or so.
+
+### ☕ Get in touch
+- LinkedIn: <a href = "https://www.linkedin.com/in/juel-braganza/">juel-braganza</a>
+- Twitter: <a href = "https://twitter.com/j_brgnz">j_brgnz</a>
+- Website: coming soon
+- Food Blog: <a href = "https://callitameal.com">callitameal.com</a>
+<br>
+<br>
+From Juel07 (https://github.com/Juel07)
