@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mangeshdiyewar
 - 👀 I’m interested in learning data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on various live projects
+- 🌱 I’m currently DEEP LEARNING                                   
+- 💞️ I’m looking FOR VARIOUS JOB ROLES IN MACHINE LEARNING DOMAIN
 - 📫 How to reach me mangeshmjd@gmail.
 - com
 
