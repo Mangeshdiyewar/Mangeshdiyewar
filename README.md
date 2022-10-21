@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm Mangesh Diyewar, a Mechanical engineering graduate who
 
 ### 💡 Goals Before end of 2022
 - Complete learning of NLP 
-- Build soem coll industry level projects 
+- Build some cool industry level projects 
 - Become skilled in Machine learning 
 - land a job as a Data scientist
 
